@@ -4,7 +4,9 @@
 SmartSight is a wearable AI-driven assistive solution designed to empower visually impaired and elderly individuals. This Flutter-based mobile application connects with a clip-on hardware device and provides intelligent assistance through voice-based interaction.
 
 > This repository contains only the `lib` folder, `assets`, and `pubspec.yaml` file for the Flutter frontend. Clone and integrate into your existing Flutter project to run the app.
-
+>
+> 📦 Backend: All backend and Python-based processing code is available in this companion repository .
+   https://github.com/Malavika-Unnikrishnan/smartsight_backend
 ---
 
 ## Features
